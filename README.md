@@ -6,4 +6,6 @@ This is a project for the ADVANCED GAME DEVELOPMENT course. This project is crea
 # Game Action:
 Directional controls: up, left, down, right: W, A, S, D \
 Attack: Left shift \
-Logging: Space
+Logging: Space \
+Pause: P \
+Change Input Module: Enter
